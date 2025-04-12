@@ -17,8 +17,7 @@ This project focuses on analyzing customer behavior, sentiment, and engagement a
 - Provide data-driven recommendations to enhance customer satisfaction.
 
 ## 🛠️ Technologies Used
-- Python / SQL
+- Python / MySQL
 - Pandas / NumPy
 - Natural Language Processing (NLP)
-- Data Visualization Libraries (Matplotlib, Seaborn, etc.)
 
