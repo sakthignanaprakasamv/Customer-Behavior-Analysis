@@ -1,0 +1,5 @@
+pandas
+textblob
+psycopg2-binary
+python-dotenv
+jupyter
